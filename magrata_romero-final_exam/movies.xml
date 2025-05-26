@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+
+
+    <movie>
+        <id>1748048362</id>
+        <title>Avengers: Endgame</title>
+        <description>Earth's mightiest heroes team up one last time to undo the damage caused by Thanos. Epic, emotional, and action-packed.</description>
+        <release_year>2019</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748048393</id>
+        <title>Spider-Man: No Way Home </title>
+        <description>Peter Parker deals with multiverse chaos as past Spider-Men return to help him fix a spell gone wrong.</description>
+        <release_year>2021</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Spider-Man_No_Way_Home_poster.jpg/250px-Spider-Man_No_Way_Home_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748048502</id>
+        <title>Harry Potter and the Cursed Child</title>
+        <description>A young boy discovers he's a wizard and attends Hogwarts, where he faces magical adventures and a dark enemy.</description>
+        <release_year>2016</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Cursed_Child_new_poster.jpg/250px-Cursed_Child_new_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748048537</id>
+        <title>Frozen </title>
+        <description>Princess Elsa accidentally reveals her ice powers, causing eternal winter. Her sister Anna tries to bring her back.</description>
+        <release_year>2013</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/250px-Frozen_%282013_film%29_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748048694</id>
+        <title> Transformers: Rise of the Beasts</title>
+        <description>Autobots team up with animal-like Maximals to stop the planet-eating villain Unicron from destroying Earth.</description>
+        <release_year>2023</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Transformers-_Rise_of_the_Beasts.jpg/250px-Transformers-_Rise_of_the_Beasts.jpg</image>
+    </movie>
+    
+    <movie>
+        <id>1748048863</id>
+        <title>Cars</title>
+        <description>Race car Lightning McQueen learns life lessons when he ends up in a small town far from fame and racing.</description>
+        <release_year>2006</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Cars_2006.jpg/250px-Cars_2006.jpg</image>
+    </movie>
+    <movie>
+        <id>1748048898</id>
+        <title>Coco</title>
+        <description>A boy travels to the Land of the Dead to learn about his family history and follow his dream of becoming a musician.</description>
+        <release_year>2017</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748048964</id>
+        <title>Moana 2</title>
+        <description>Moana sets out on a new adventure across the seas to protect her people.</description>
+        <release_year>2024</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Moana_2_poster.jpg/250px-Moana_2_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748049004</id>
+        <title>Inside Out</title>
+        <description>A girl’s emotions (Joy, Sadness, Anger, Fear, and Disgust) help her navigate big life changes in a fun, thoughtful way.</description>
+        <release_year>2024</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Inside_Out_2_poster.jpg/250px-Inside_Out_2_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748049037</id>
+        <title>Encanto</title>
+        <description>In a magical family, one girl with no powers discovers she’s the key to saving their magic and bringing everyone together.</description>
+        <release_year>2021</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Encanto_poster.jpg/250px-Encanto_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748049109</id>
+        <title>Guardians of the Galaxy Vol. 3</title>
+        <description>A group of misfit heroes — including Star-Lord, Rocket Raccoon, and Groot — team up to protect the galaxy.</description>
+        <release_year>2023</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg/250px-Guardians_of_the_Galaxy_Vol._3_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748049165</id>
+        <title> Barbie</title>
+        <description>Barbie and Ken leave Barbieland and explore the real world, leading to funny, emotional, and eye-opening adventures about identity, purpose, and self-discovery.</description>
+        <release_year>2023</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748049227</id>
+        <title>Monsters University</title>
+        <description>Mike and Sulley meet in college, where they start as rivals but become best friends while training to become top scarers.</description>
+        <release_year>2013</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/2/2a/Monsters_University_poster_3.jpg</image>
+    </movie>
+    <movie>
+        <id>1748049313</id>
+        <title> The Dark Knight Rises</title>
+        <description>Batman faces his greatest challenge when the Joker, a chaotic criminal mastermind, threatens Gotham City with destruction and fear.</description>
+        <release_year>2012</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg</image>
+    </movie>
+    
+    <movie>
+        <id>1748049685</id>
+        <title>The Chronicles of Narnia</title>
+        <description>Siblings enter a magical world through a wardrobe and fight to save it from evil.</description>
+        <release_year>2010</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/The_Voyage_of_the_Dawn_Treader_poster.jpg/250px-The_Voyage_of_the_Dawn_Treader_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748049756</id>
+        <title>The Maze Runner</title>
+        <description>Teens trapped in a mysterious maze try to find a way out while uncovering secrets about their world.</description>
+        <release_year>2014</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/b/be/The_Maze_Runner_poster.jpg/250px-The_Maze_Runner_poster.jpg</image>
+    </movie>
+    <movie>
+        <id>1748170215</id>
+        <title>Home Alone</title>
+        <description>A clever boy sets traps to protect his new home from art thieves while his family is away during the holidays.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+        </description>
+        <release_year>2012</release_year>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Home_Alone_The_Holiday_Heist.jpg/250px-Home_Alone_The_Holiday_Heist.jpg</image>
+    </movie>
+<movie><id>1748251265</id><title>Snow White </title><description>A live-action remake of the classic fairy tale where Snow White, with the help of seven magical friends, stands up to the Evil Queen and discovers her own strength and voice.</description><release_year>2025</release_year><image>https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Snow_White_%282025_film%29_final_poster.jpg/250px-Snow_White_%282025_film%29_final_poster.jpg</image></movie></movies>
